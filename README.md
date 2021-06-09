@@ -4,15 +4,17 @@ Sebenarnya dalam beberapa kasus, untuk mendapatkan sebuah Token atau Koin dalam 
 
 Airdrop dalam Crypto Currency dari segi fungsinya adalah salah satu sarana Developer Token untuk mempromosikan Project Token yang telah dibuat kepada Pemain Crypto Currency, dengan memberikan sebuah tugas - tugas kepada orang - orang yang mengikutinya lalu memberikan sebuah imbalan berupa Token Pada saat distribusi Airdrop berlangsung.
 
-Didalam Project - project airdrop yang sering di temukan, Umumnya menggambarkan/menjelaskan latar belakang Sebuah Token itu tercipta, serta memberikan dengan details tentang whitepapper, Roadmap dan Tokenomic.
+Didalam Project - project airdrop yang sering di temukan, Umumnya menggambarkan/menjelaskan latar belakang Sebuah Token itu tercipta yang diperlihatkan dalam website project, Seperti:
+**White Paper**
 
-*White Paper*
 Sebuah dokumen yang berisi penjelasan akan sebuah masalah yang ingin diselesaikan suatu projek, solusi akan masalah tersebut, serta penjelasan detil project, pembuatannya, dan interaksinya dengan pengguna
 
-*RoadMap*
+**RoadMap**
+
 Suatu peta ataupun panduan yang bisa digunakan untuk melihat pelaksanaan suatu program kegiatan dalam project Token yang akan dilaksanakan.
 
-*Tokenomic*
+**Tokenomic**
+
 Berisi penjelasan tentang Suatu spesifikasi Token seperti:
 1. Suplay (Total Jumlah token yang dibuat)
 2. SYMBL (Simbol dari Token)
