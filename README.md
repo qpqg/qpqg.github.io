@@ -26,7 +26,7 @@ Berisi penjelasan tentang Suatu spesifikasi Token seperti:
 7. Jenis Jaringan Token yang digunakan
 
 
-### Markdown
+### Bagaimana cara untuk mendapatkan Airdrop ?
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
