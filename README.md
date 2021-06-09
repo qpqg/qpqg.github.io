@@ -31,6 +31,18 @@ Untuk mendapatkan info terkait Airdrop, tentunya kita harus memerlukan banyak in
 
 Tapi dalam beberapa kasus, sebenarnya untuk mencari airdrop sudah ada banyak yang membuat Channel khusus untuk memasarkan Airdrop yang diselenggarakan dan tak jarang juga para penyelenggara Airdrop menyewa tempat untuk memasarkan Aidrop mereka ke dalam Market Exchange, atau situs - situs ternama yang bersangkutan dengan Crypto Currency seperti coinmarketcap.com kalian dapat melihat info Airdrop yang sedang berlangsung atau yang telah berakhi dan atau airdrop yang akan datang [disini](https://coinmarketcap.com/airdrop/).
 
+##Persiapan
+
+Untuk menampung Token - token yang didapatkan dari sebuah Aridrop, tentunya kita harus mempunya E-wallet khusus untuk menampung token dan koin yang akan didapatkan, saya akan merekomendasi beberapa wallet untuk anda, dan menjelaskan kapan suatu waktu jika anda menggunakan E-wallet yang saya rekomendasikan.
+
+**Disini saya akan merekomendasikan Aplikasi E-Wallet yang anda harus buat**:
+
+1. TrustWallet
+2. MateMask
+3. SafePall
+
+
+
 ```markdown
 Syntax highlighted code block
 
