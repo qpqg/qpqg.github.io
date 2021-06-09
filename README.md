@@ -1,8 +1,27 @@
-## Welcome to GitHub Pages
+## Pendahuluan
 
-You can use the [editor on GitHub](https://github.com/QiubyZ/qiubyz.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Sebenarnya dalam beberapa kasus, untuk mendapatkan sebuah Token atau Koin dalam Crypto Currency memiliki banyak cara, Airdrop adalah cara yang paling di gemari, karena kita hanya mengerjakan tugas - tugas yang diberikan kepada Suatu Project, lalu kita akan mendapatkan imbalan dari Project tersebut.
 
-**Whenever** you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Airdrop dalam Crypto Currency dari segi fungsinya adalah salah satu sarana Developer Token untuk mempromosikan Project Token yang telah dibuat kepada Pemain Crypto Currency, dengan memberikan sebuah tugas - tugas kepada orang - orang yang mengikutinya lalu memberikan sebuah imbalan berupa Token Pada saat distribusi Airdrop berlangsung.
+
+Didalam Project - project airdrop yang sering di temukan, Umumnya menggambarkan/menjelaskan latar belakang Sebuah Token itu tercipta, serta memberikan dengan details tentang whitepapper, Roadmap dan Tokenomic.
+
+*White Paper*
+Sebuah dokumen yang berisi penjelasan akan sebuah masalah yang ingin diselesaikan suatu projek, solusi akan masalah tersebut, serta penjelasan detil project, pembuatannya, dan interaksinya dengan pengguna
+
+*RoadMap*
+Suatu peta ataupun panduan yang bisa digunakan untuk melihat pelaksanaan suatu program kegiatan dalam project Token.
+
+*Tokenomic*
+Berisi penjelasan tentang Suatu spesifikasi Token seperti:
+1. Suplay (Total Jumlah token yang dibuat)
+2. SYMBL (Simbol dari Token)
+3. Nama token
+4. Persentase Alokasi Token Untuk pembagian Airdrop, jumlah Token yang dipegang oleh pemilik token, dan untuk penjualan selanjutnya.
+5. Team Pembuat Token (Sangat jarang dimunculkan)
+6. Utilitas Token
+7. Jenis Jaringan Token yang digunakan
+
 
 ### Markdown
 
