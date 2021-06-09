@@ -26,9 +26,9 @@ Berisi penjelasan tentang Suatu spesifikasi Token seperti:
 7. Jenis Jaringan Token yang digunakan
 
 
-### Bagaimana cara untuk mendapatkan Airdrop ?
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Cara Mendapatkan Airdrop
+Untuk mendapatkan info terkait Airdrop, tentunya kita harus memerlukan banyak informasi, mencarinya dengan menggunakan Mesin Google "Jika anda paham dan kuat menjalaninya" atau mencarinya didalam lingkup sosial media Twitter.
+Tapi dalam beberapa kasus, sebenarnya untuk mencari airdrop sudah ada banyak yang membuat Channel khusus untuk memasarkan Airdrop yang diselenggarakan dan tak jarang juga para penyelenggara Airdrop menyewa tempat untuk memasarkan Aidrop mereka ke dalam Market Exchange, atau situs - situs ternama yang bersangkutan dengan Crypto Currency seperti coinmarketcap.com kalian dapat melihat info Airdrop yang sedang berlangsung atau yang telah berakhi dan atau airdrop yang akan datang [disini](https://coinmarketcap.com/airdrop/)
 
 ```markdown
 Syntax highlighted code block
