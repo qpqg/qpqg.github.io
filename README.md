@@ -10,14 +10,14 @@ Didalam Project - project airdrop yang sering di temukan, Umumnya menggambarkan/
 Sebuah dokumen yang berisi penjelasan akan sebuah masalah yang ingin diselesaikan suatu projek, solusi akan masalah tersebut, serta penjelasan detil project, pembuatannya, dan interaksinya dengan pengguna
 
 *RoadMap*
-Suatu peta ataupun panduan yang bisa digunakan untuk melihat pelaksanaan suatu program kegiatan dalam project Token.
+Suatu peta ataupun panduan yang bisa digunakan untuk melihat pelaksanaan suatu program kegiatan dalam project Token yang akan dilaksanakan.
 
 *Tokenomic*
 Berisi penjelasan tentang Suatu spesifikasi Token seperti:
 1. Suplay (Total Jumlah token yang dibuat)
 2. SYMBL (Simbol dari Token)
 3. Nama token
-4. Persentase Alokasi Token Untuk pembagian Airdrop, jumlah Token yang dipegang oleh pemilik token, dan untuk penjualan selanjutnya.
+4. Persentase Alokasi Token untuk pembagian Airdrop, Jumlah Token untuk Developer, Jumlah token yang akan di bakar (BURN) dan untuk penjualan selanjutnya.
 5. Team Pembuat Token (Sangat jarang dimunculkan)
 6. Utilitas Token
 7. Jenis Jaringan Token yang digunakan
