@@ -41,13 +41,13 @@ Untuk menampung Token - token yang didapatkan dari sebuah Aridrop, tentunya kita
 2. **Meta Mask** [Disini](https://play.google.com/store/apps/details?id=io.metamask)
 
 ## Cara Mendaftar Akun di Trust Wallet
-Buka Aplikasi Trust Wallet dan ikuti langkah - langkah dibawah ini
-A. Create A New Account
-B. Centang Kotak di depan tulisan "I understand that if lose my Recovery words, i will not be ..."
-C. Continue
-D. Anda akan diberikan 12 kata, yang akan anda tuliskan kembali sesuai dengan nomor urut yang sudah diberikan oleh kata "Catat dan Ingat", lalu "CONTINUE"
-E. Masukkan 12 kata yang telah dicatat, dengan menyentuh kata - kata yang sudah disediakan "Dengan terurut".
-F. Setalah itu "Done"
+Buka Aplikasi Trust Wallet dan ikuti langkah - langkah dibawah ini:
+1. Create A New Account
+2. Centang Kotak di depan tulisan "I understand that if lose my Recovery words, i will not be ..."
+3. Continue
+4. Anda akan diberikan 12 kata, yang akan anda tuliskan kembali sesuai dengan nomor urut yang sudah diberikan oleh kata "Catat dan Ingat", lalu "CONTINUE"
+5. Masukkan 12 kata yang telah dicatat, dengan menyentuh kata - kata yang sudah disediakan "Dengan terurut".
+6. Setalah itu "Done"
 
 Anda telah membuat akun untuk penyimpanan Token dan Koin Crypto Currency di Aplikasi Trust Wallet dan siap untuk mencari Airdrop yang bertebaran di Internet
 
