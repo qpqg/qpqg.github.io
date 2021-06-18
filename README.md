@@ -57,7 +57,7 @@ Kenapa Mate Mask dibutuhkan?
 1. Dalam beberapa kasus, pasti anda akan berkembang/tidak mengikuti hanya satu jaringan Token/Koin
 2. Dalam Trust Wallet kita tidak dapat meng-Adakan/Membuat Costum Jaringan, jadi kita hanya akan terikat dengan Jaringan - jaringan Token/Koin yang sudah diatur oleh Admin Trust Wallet.
 sejauh pada saat tulisan ini dibuat, Trust Wallet hanya Mensupport jaringan transfer token yang akan masuk, melalui :
-```
+```markdown
     1. Smart Chain (BEP20)
     2. Ethereum (ERC)
     3. TRON (TRC)
