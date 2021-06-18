@@ -31,18 +31,49 @@ Untuk mendapatkan info terkait Airdrop, tentunya kita harus memerlukan banyak in
 
 Tapi dalam beberapa kasus, sebenarnya untuk mencari airdrop sudah ada banyak yang membuat Channel khusus untuk memasarkan Airdrop yang diselenggarakan dan tak jarang juga para penyelenggara Airdrop menyewa tempat untuk memasarkan Aidrop mereka ke dalam Market Exchange, atau situs - situs ternama yang bersangkutan dengan Crypto Currency seperti coinmarketcap.com kalian dapat melihat info Airdrop yang sedang berlangsung atau yang telah berakhi dan atau airdrop yang akan datang [disini](https://coinmarketcap.com/airdrop/).
 
-##Persiapan
+## Persiapan
 
-Untuk menampung Token - token yang didapatkan dari sebuah Aridrop, tentunya kita harus mempunya E-wallet khusus untuk menampung token dan koin yang akan didapatkan, saya akan merekomendasi beberapa wallet untuk anda, dan menjelaskan kapan suatu waktu jika anda menggunakan E-wallet yang saya rekomendasikan.
+Untuk menampung Token - token yang didapatkan dari sebuah Aridrop, tentunya kita harus mempunya E-wallet khusus untuk menampung token yang akan didapatkan, saya akan merekomendasi beberapa wallet untuk anda, dan menjelaskan kapan suatu waktu jika anda menggunakan E-wallet yang saya rekomendasikan.
 
 **Disini saya akan merekomendasikan Aplikasi E-Wallet yang anda harus buat**:
 
-1. TrustWallet
-2. MateMask
-3. SafePall
+1. **Trust Wallet** [Disini](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
+2. **Meta Mask** [Disini](https://play.google.com/store/apps/details?id=io.metamask)
 
+## Cara Mendaftar Akun di Trust Wallet
+Buka Aplikasi Trust Wallet dan ikuti langkah - langkah dibawah ini
+A. Create A New Account
+B. Centang Kotak di depan tulisan "I understand that if lose my Recovery words, i will not be ..."
+C. Continue
+D. Anda akan diberikan 12 kata, yang akan anda tuliskan kembali sesuai dengan nomor urut yang sudah diberikan oleh kata "Catat dan Ingat", lalu "CONTINUE"
+E. Masukkan 12 kata yang telah dicatat, dengan menyentuh kata - kata yang sudah disediakan "Dengan terurut".
+F. Setalah itu "Done"
 
+Anda telah membuat akun untuk penyimpanan Token dan Koin Crypto Currency di Aplikasi Trust Wallet dan siap untuk mencari Airdrop yang bertebaran di Internet
 
+## Menghubungkan Trust Wallet Ke Meta Mask (Optional)
+Dalam kasus ini, kita tidak perlu lagi mendaftar akun Mate Mask, saya akan memberitahu anda untuk meng-sinkron-kan Trust Wallet Anda ke Meta Mask Wallet.
+Kenapa Mate Mask dibutuhkan?
+1. Dalam beberapa kasus, pasti anda akan berkembang/tidak mengikuti hanya satu jaringan Token/Koin
+2. Dalam Trust Wallet kita tidak dapat meng-Adakan/Membuat Costum Jaringan, jadi kita hanya akan terikat dengan Jaringan - jaringan Token/Koin yang sudah diatur oleh Admin Trust Wallet.
+sejauh pada saat tulisan ini dibuat, Trust Wallet hanya Mensupport jaringan transfer token yang akan masuk, melalui :
+```
+    1. Smart Chain (BEP20)
+    2. Ethereum (ERC)
+    3. TRON (TRC)
+    4. VeChain
+    5. Ethereum Classic
+    6. Waves
+    7. Solana
+    8. Kava
+    9. TomoChain
+    10. Wanchain
+    11. Thunder Token
+    12. GoChain
+    13. POA Network
+    14. Calisto
+```
+    
 ```markdown
 Syntax highlighted code block
 
