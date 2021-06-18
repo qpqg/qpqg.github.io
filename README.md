@@ -73,7 +73,12 @@ sejauh pada saat tulisan ini dibuat, Trust Wallet hanya Mensupport jaringan tran
     13. POA Network
     14. Calisto
 ```
-    
+Karena berlandaskan keterbatasan itu, kita membutuhkan Meta Mask. Untuk membuat Costum Network/Jaringan Kostumisasi terkait dengan aridrop yang kita akan ikuti, "_Jika_" jaringan yang ada di trust wallet tidak terpenuhi. "Jika jaringan Airdrop yang anda ikuti masih ada dalam 15 lingkup itu, pakai Trust Wallet aja"
+
+3. Repotnya bulak - balik ke browser DApp (Decentralize Aplication) didalam wallet untuk mengunjungi Link. Jujur DApp Browser yang terdapat dalam Wallet Mate Mask dan Trust Wallet, tidak sesempurna Browser yang diciptkan oleh pengembang - pengembang Browser Handal, seperti Chrome dan Mozilla. Masalahnya ada di Penambahan ShortCut website dan Tampilan website yang tidak dapat kita ubah kedalam Mode Desktop serta User Interface yang buruk dan tidak Efisien. Maka dari itu untuk landasan nomor 3 ini akan saya pecahkan dalam tutorial [disini](https://meki.com)
+
+4. 
+
 ```markdown
 Syntax highlighted code block
 
