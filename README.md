@@ -57,52 +57,26 @@ Kenapa Mate Mask dibutuhkan?
 1. Dalam beberapa kasus, pasti anda akan berkembang/tidak mengikuti hanya satu jaringan Token/Koin
 2. Dalam Trust Wallet kita tidak dapat meng-Adakan/Membuat Costum Jaringan, jadi kita hanya akan terikat dengan Jaringan - jaringan Token/Koin yang sudah diatur oleh Admin Trust Wallet.
 sejauh pada saat tulisan ini dibuat, Trust Wallet hanya Mensupport jaringan transfer token yang akan masuk, melalui :
-```markdown
-    1. Smart Chain (BEP20)
-    2. Ethereum (ERC)
-    3. TRON (TRC)
-    4. VeChain
-    5. Ethereum Classic
-    6. Waves
-    7. Solana
-    8. Kava
-    9. TomoChain
-    10. Wanchain
-    11. Thunder Token
-    12. GoChain
-    13. POA Network
-    14. Calisto
+
+```
+1. Smart Chain (BEP20)
+2. Ethereum (ERC)
+3. TRON (TRC)
+4. VeChain
+5. Ethereum Classic
+6. Waves
+7. Solana
+8. Kava
+9. TomoChain
+10. Wanchain
+11. Thunder Token
+12. GoChain
+13. POA Network
+14. Calisto
+
 ```
 Karena berlandaskan keterbatasan itu, kita membutuhkan Meta Mask. Untuk membuat Costum Network/Jaringan Kostumisasi terkait dengan aridrop yang kita akan ikuti, "_Jika_" jaringan yang ada di trust wallet tidak terpenuhi. "Jika jaringan Airdrop yang anda ikuti masih ada dalam 15 lingkup itu, pakai Trust Wallet aja"
 
 3. Repotnya bulak - balik ke browser DApp (Decentralize Aplication) didalam wallet untuk mengunjungi Link. Jujur DApp Browser yang terdapat dalam Wallet Mate Mask dan Trust Wallet, tidak sesempurna Browser yang diciptkan oleh pengembang - pengembang Browser Handal, seperti Chrome dan Mozilla. Masalahnya ada di Penambahan ShortCut website dan Tampilan website yang tidak dapat kita ubah kedalam Mode Desktop serta User Interface yang buruk dan tidak Efisien. Maka dari itu untuk landasan nomor 3 ini akan saya pecahkan dalam tutorial [disini](https://meki.com)
 
 4. 
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. **List**
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/QiubyZ/qiubyz.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
