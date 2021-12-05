@@ -23,7 +23,7 @@ Berisi penjelasan tentang Suatu spesifikasi Token seperti:
 4. Persentase Alokasi Token untuk pembagian Airdrop, Jumlah Token untuk Developer, Jumlah token yang akan di bakar (BURN) dan untuk penjualan selanjutnya.
 5. Team Pembuat Token (Sangat jarang dimunculkan)
 6. Utilitas Token
-7. Jenis Jaringan Token yang digunakan
+7. Jenis Jaringan Token yang digunakan (Pengatahuan tentang berbagai jenis-jenis jaringan Crypto Currency bagi pemain airdrop/Pemegang Dompet Pribadi wajib untuk diketahui)
 
 
 ## Cara Mendapatkan Airdrop
