@@ -27,15 +27,15 @@ Berisi penjelasan tentang Suatu spesifikasi Token seperti:
 
 
 ## Cara Mendapatkan Airdrop
-Untuk mendapatkan info terkait Airdrop, tentunya kita harus memerlukan banyak informasi, mencarinya dengan menggunakan Mesin Google "Jika anda paham dan kuat menjalaninya" atau mencarinya didalam lingkup sosial media Twitter.
+Untuk mendapatkan info terkait Airdrop, tentunya kita harus memerlukan banyak informasi, mencarinya dengan menggunakan Mesin Google "Jika anda paham dan kuat menjalaninya" atau mencarinya didalam lingkup sosial media Twitter, Aplikasi - aplikasi chatiing seperti Telegram, Discord, atau website Reddit.
 
-Tapi dalam beberapa kasus, sebenarnya untuk mencari airdrop sudah ada banyak yang membuat Channel khusus untuk memasarkan Airdrop yang diselenggarakan dan tak jarang juga para penyelenggara Airdrop menyewa tempat untuk memasarkan Aidrop mereka ke dalam Market Exchange, atau situs - situs ternama yang bersangkutan dengan Crypto Currency seperti coinmarketcap.com kalian dapat melihat info Airdrop yang sedang berlangsung atau yang telah berakhi dan atau airdrop yang akan datang [disini](https://coinmarketcap.com/airdrop/).
+Tapi dalam beberapa kasus, "Kebanyakan" untuk mencari airdrop sudah ada banyak yang membuat Channel Telegram khusus untuk memasarkan Airdrop yang diselenggarakan dan tak jarang juga para penyelenggara Airdrop menyewa tempat untuk memasarkan Aidrop mereka ke dalam Market Exchange (CEX/DEX), atau situs - situs ternama yang bersangkutan dengan Crypto Currency seperti coinmarketcap.com ataupun CoinGecko. Kalian dapat melihat info Airdrop yang sedang berlangsung atau yang telah berakhir dan atau airdrop yang akan datang [disini](https://coinmarketcap.com/airdrop/).
 
 ## Persiapan
 
-Untuk menampung Token - token yang didapatkan dari sebuah Aridrop, tentunya kita harus mempunya E-wallet khusus untuk menampung token yang akan didapatkan, saya akan merekomendasi beberapa wallet untuk anda, dan menjelaskan kapan suatu waktu jika anda menggunakan E-wallet yang saya rekomendasikan.
+Untuk menampung Token - token yang didapatkan dari sebuah Airdrop, tentunya kita harus mempunyai E-wallet khusus untuk menampung token yang akan didapatkan, saya akan merekomendasi beberapa wallet untuk anda, dan menjelaskan kapan suatu waktu jika anda menggunakan E-wallet yang saya rekomendasikan.
 
-**Disini saya akan merekomendasikan Aplikasi E-Wallet yang anda harus buat**:
+**Disini saya akan merekomendasikan Aplikasi E-Wallet yang anda harus buat Akunnya**:
 
 1. **Trust Wallet** [Disini](https://play.google.com/store/apps/details?id=com.wallet.crypto.trustapp)
 2. **Meta Mask** [Disini](https://play.google.com/store/apps/details?id=io.metamask)
@@ -50,6 +50,33 @@ Buka Aplikasi Trust Wallet dan ikuti langkah - langkah dibawah ini:
 6. Setalah itu "Done"
 
 Anda telah membuat akun untuk penyimpanan Token dan Koin Crypto Currency di Aplikasi Trust Wallet dan siap untuk mencari Airdrop yang bertebaran di Internet
+
+Kekurangan Dan Kelebihan TrustWallet
+A. Kekurangan
+- Tidak dapat menambahkan Jaringan Token/Coin selain yang disediakan oleh developer Truswallet, solusinya hanya menunggu Developer untuk mengupdate Aplikasinya.
+- Sejauh dari tulisan ini dibuat, Trustwallet hanya mendukung token/koin dengan jaringan dibawah ini
+```
+1. Smart Chain (BEP20)
+2. Ethereum (ERC)
+3. TRON (TRC)
+4. VeChain
+5. Ethereum Classic
+6. Waves
+7. Solana
+8. Kava
+9. TomoChain
+10. Wanchain
+11. Thunder Token
+12. GoChain
+13. POA Network
+14. Calisto
+```
+- Terkadang Menu Aplikasi "Dapp Browser" (Akses Web) hanya ditampilkan dalam jaringan Tertentu.
+- Catatan Transaksi terkadang tidak masuk
+
+B. Kelebihan
+- Konversi Nilai token ke Rupiah
+- Menambahkan Token baru terbilang mudah
 
 ## Menghubungkan Trust Wallet Ke Meta Mask (Optional)
 Dalam kasus ini, kita tidak perlu lagi mendaftar akun Mate Mask, saya akan memberitahu anda untuk meng-sinkron-kan Trust Wallet Anda ke Meta Mask Wallet.
