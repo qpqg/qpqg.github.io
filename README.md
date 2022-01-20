@@ -5,7 +5,7 @@ Sebenarnya dalam beberapa kasus, untuk mendapatkan sebuah Token atau Koin dalam 
 Airdrop dalam Crypto Currency dari segi fungsinya adalah salah satu sarana Developer Token untuk mempromosikan Project Token yang telah dibuat kepada Pemain Crypto Currency, dengan memberikan tugas - tugas kepada orang - orang yang hendak akan mengikutinya lalu memberikan sebuah imbalan berupa Token Pada saat tanggal distribusi Airdrop jatuh tempo.
 
 <i>*catatan
-- Tentunya dalam tiap - tiap Developer Token yang Menyelenggarakan Aordrop mempunyai Ketentuan dan Persyaratan yang umumnya berbeda - beda
+- Tentunya dalam tiap - tiap Developer Token yang Menyelenggarakan Airdrop mempunyai Ketentuan dan Persyaratan yang umumnya berbeda - beda
 - Token dan Nilai Harga token "dalam FIAT" yang didapatkan bagi pemenang Airdrop berbeda - beda jumlahnya.
 - Persyaratan dan Peraturan dalam mengikuti Airdrop yang diadakan Developer Token/Koin itu bersifat mutlak, karena Mutlak anda harus benar - benar jeli membaca sebelum mengikutinya.
 </i>
