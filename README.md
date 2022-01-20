@@ -1,8 +1,8 @@
-## Pendahuluan
+## Pengantar Airdrop
 
 Sebenarnya dalam beberapa kasus, untuk mendapatkan sebuah Token atau Koin dalam Crypto Currency memiliki banyak cara, Airdrop adalah cara yang paling di gemari, karena kita hanya mengerjakan tugas - tugas yang diberikan kepada Suatu Project, lalu kita akan mendapatkan imbalan dari Project tersebut.
 
-Airdrop dalam Crypto Currency dari segi fungsinya adalah salah satu sarana Developer Token untuk mempromosikan Project Token yang telah dibuat kepada Pemain Crypto Currency, dengan memberikan sebuah tugas - tugas kepada orang - orang yang mengikutinya lalu memberikan sebuah imbalan berupa Token Pada saat distribusi Airdrop berlangsung.
+Airdrop dalam Crypto Currency dari segi fungsinya adalah salah satu sarana Developer Token untuk mempromosikan Project Token yang telah dibuat kepada Pemain Crypto Currency, dengan memberikan sebuah tugas - tugas kepada orang - orang yang mengikutinya lalu memberikan sebuah imbalan berupa Token Pada saat tanggal distribusi Airdrop jatuh tempo.
 
 Didalam Project - project airdrop yang sering di temukan, Umumnya menggambarkan/menjelaskan latar belakang Sebuah Token itu tercipta yang diperlihatkan dalam website project, Seperti:
 
