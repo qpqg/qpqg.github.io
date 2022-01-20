@@ -5,9 +5,11 @@ Sebenarnya dalam beberapa kasus, untuk mendapatkan sebuah Token atau Koin dalam 
 Airdrop dalam Crypto Currency dari segi fungsinya adalah salah satu sarana Developer Token untuk mempromosikan Project Token yang telah dibuat kepada Pemain Crypto Currency, dengan memberikan tugas - tugas kepada orang - orang yang hendak akan mengikutinya lalu memberikan sebuah imbalan berupa Token Pada saat tanggal distribusi Airdrop jatuh tempo.
 
 <i>*catatan
-- Tentunya dalam tiap - tiap Developer Token yang Menyelenggarakan Airdrop mempunyai Ketentuan dan Persyaratan yang umumnya berbeda - beda
+- Tentunya dalam tiap - tiap Developer Token yang Menyelenggarakan Airdrop mempunyai Ketentuan dan Persyaratan yang umumnya berbeda - beda.
 - Token dan Nilai Harga token "dalam FIAT" yang didapatkan bagi pemenang Airdrop berbeda - beda jumlahnya.
-- Persyaratan dan Peraturan dalam mengikuti Airdrop yang diadakan Developer Token/Koin itu bersifat mutlak, karena Mutlak anda harus benar - benar jeli membaca sebelum mengikutinya.
+- Persyaratan dan Peraturan dalam mengikuti Airdrop yang diadakan Developer Token/Koin itu bersifat mutlak, karena Mutlak anda harus benar - benar jeli membaca sebelum mengikuti dan melakukannya.
+- Airdrop diumumkan dalam Media sosial, karena itu mungkin saja kesempatan Anda untuk mendapatkannya berbanding 50:50.
+- Developer token dapat melihat jumlah chat anda melalui Bot yang tertanam dalam Group untuk melihat User yang aktif.
 </i>
 
 Didalam Project - project airdrop yang sering di temukan, Umumnya menggambarkan/menjelaskan latar belakang Sebuah Token itu tercipta yang diperlihatkan dalam website project, Seperti:
@@ -39,7 +41,7 @@ Tapi dalam beberapa kasus, "Kebanyakan" untuk mencari airdrop sudah ada banyak y
 
 ## Persiapan
 
-Untuk menampung Token - token yang didapatkan dari sebuah Airdrop, tentunya kita harus mempunyai E-wallet khusus untuk menampung token yang akan didapatkan, saya akan merekomendasi beberapa wallet untuk anda, dan menjelaskan kapan suatu waktu jika anda menggunakan E-wallet yang saya rekomendasikan.
+Untuk menampung Token - token yang didapatkan dari sebuah Airdrop, tentunya kita harus mempunyai E-wallet khusus untuk menampung sekaligus menerima token yang akan didapatkan, saya akan merekomendasi beberapa wallet untuk anda, dan menjelaskan kapan suatu waktu jika anda menggunakan E-wallet yang saya rekomendasikan.
 
 **Disini saya akan merekomendasikan Aplikasi E-Wallet yang anda harus buat Akunnya**:
 
@@ -58,6 +60,7 @@ Buka Aplikasi Trust Wallet dan ikuti langkah - langkah dibawah ini:
 Anda telah membuat akun untuk penyimpanan Token dan Koin Crypto Currency di Aplikasi Trust Wallet dan siap untuk mencari Airdrop yang bertebaran di Internet
 
 Kekurangan Dan Kelebihan TrustWallet
+
 A. Kekurangan
 - Tidak dapat menambahkan Jaringan Token/Coin selain yang disediakan oleh developer Truswallet, solusinya hanya menunggu Developer untuk mengupdate Aplikasinya.
 - Sejauh dari tulisan ini dibuat, Trustwallet hanya mendukung token/koin dengan jaringan dibawah ini
@@ -77,37 +80,11 @@ A. Kekurangan
 13. POA Network
 14. Calisto
 ```
-- Terkadang Menu Aplikasi "Dapp Browser" (Akses Web) hanya ditampilkan dalam jaringan Tertentu.
-- Catatan Transaksi terkadang tidak masuk
+
+- Catatan Transaksi terkadang tidak ditampilkan
 
 B. Kelebihan
 - Konversi Nilai token ke Rupiah
 - Menambahkan Token baru terbilang mudah
 
-## Menghubungkan Trust Wallet Ke Meta Mask (Optional)
-Dalam kasus ini, kita tidak perlu lagi mendaftar akun Mate Mask, saya akan memberitahu anda untuk meng-sinkron-kan Trust Wallet Anda ke Meta Mask Wallet.
-Kenapa Mate Mask dibutuhkan?
-1. Dalam beberapa kasus, pasti anda akan berkembang/tidak mengikuti hanya satu jaringan Token/Koin
-2. Dalam Trust Wallet kita tidak dapat meng-Adakan/Membuat Costum Jaringan, jadi kita hanya akan terikat dengan Jaringan - jaringan Token/Koin yang sudah diatur oleh Admin Trust Wallet.
-sejauh pada saat tulisan ini dibuat, Trust Wallet hanya Mensupport jaringan transfer token yang akan masuk, melalui :
 
-```
-1. Smart Chain (BEP20)
-2. Ethereum (ERC)
-3. TRON (TRC)
-4. VeChain
-5. Ethereum Classic
-6. Waves
-7. Solana
-8. Kava
-9. TomoChain
-10. Wanchain
-11. Thunder Token
-12. GoChain
-13. POA Network
-14. Calisto
-
-```
-Karena berlandaskan keterbatasan itu, kita membutuhkan Meta Mask. Untuk membuat Costum Network/Jaringan Kostumisasi terkait dengan aridrop yang kita akan ikuti, "_Jika_" jaringan yang ada di trust wallet tidak terpenuhi. "Jika jaringan Airdrop yang anda ikuti masih ada dalam 15 lingkup itu, pakai Trust Wallet aja"
-3. Repotnya bulak - balik ke browser DApp (Decentralize Aplication) didalam wallet untuk mengunjungi Link. Jujur DApp Browser yang terdapat dalam Wallet Mate Mask dan Trust Wallet, tidak sesempurna Browser yang diciptkan oleh pengembang - pengembang Browser Handal, seperti Chrome dan Mozilla. Masalahnya ada di Penambahan ShortCut website dan Tampilan website yang tidak dapat kita ubah kedalam Mode Desktop serta User Interface yang buruk dan tidak Efisien. Maka dari itu untuk landasan nomor 3 ini akan saya pecahkan dalam tutorial [disini](https://meki.com).
-4. 
