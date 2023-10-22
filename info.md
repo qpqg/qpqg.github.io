@@ -1,13 +1,10 @@
 # INFO
 
 ### Info Akun Github
-Lelang Akun Github:
+Lelang Akun Github (Penawaran Tertinggi Angkut):
 + Bisa Costum Domain
-+ Tahun bikin Sep 6, 2017
++ Tahun bikin 2018-07-17
 - Tidak dengan Emailnya, soalnya emailnya milik pribadi.
-
-System:
-Bayar dulu > change email > Done.
 
 ### Hubungi QiubyZhukhi
 - [QiubyZhukhi](https://www.facebook.com/QiubyZhuk?mibextid=2JQ9oc)
